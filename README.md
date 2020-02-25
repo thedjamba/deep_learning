@@ -1,2 +1,2 @@
 # deep_learning
-💻 Deep learning course at SoftUni
+Deep learning course at SoftUni
